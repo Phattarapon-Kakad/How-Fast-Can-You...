@@ -3,8 +3,8 @@
 รหัสนักศึกษา (Student ID): 6631503115
 ชื่อแอป (App Name): How fast Can You...
 Framework ที่ใช้ (Framework Used): React Native (Expo)
-ลิงก์ GitHub Repository: [GitHub Repository URL]
-ลิงก์ไฟล์ติดตั้ง (APK/IPA): [APK Download Link]
+ลิงก์ GitHub Repository: [https://github.com/Phattarapon-Kakad/How-Fast-Can-You....git]
+ลิงก์ไฟล์ติดตั้ง (APK/IPA): [https://drive.google.com/file/d/159tljSY-C2cE7bXTp2c-fc9WQpjB2aS8/view?usp=sharing]
 
 1. การออกแบบแอป | App Concept and Design (2 คะแนน / 2 pts)
 1.1 ผู้ใช้งานเป้าหมาย | User Personas
@@ -62,8 +62,8 @@ Persona 2:
 
 3. การ Build และติดตั้งแอป | Deployment (2 คะแนน / 2 pts)
 3.1 ประเภท Build | Build Type
-[x] Debug
-[ ] Release
+[ ] Debug
+[x] Release
 3.2 แพลตฟอร์มที่ทดสอบ | Platform Tested
 [x] Android
 [ ] iOS
