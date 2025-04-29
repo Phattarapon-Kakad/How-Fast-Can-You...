@@ -1,0 +1,24 @@
+{
+    "HowToPlay": [
+        {
+            "title": "CPS",
+            "description": "Click as fast as you can in 5 seconds",
+            "tag": "CPS"
+        },
+        {
+            "title": "Reaction Test",
+            "description": "Click as fast as you can when the green button appears",
+            "tag": "RT"
+        },
+        {
+            "title": "Memory Test",
+            "description": "Write down the number that appears on the screen",
+            "tag": "MT"
+        },
+        {
+            "title": "Number Sequence",
+            "description": "Press number in order",
+            "tag": "NS"
+        }
+    ]
+}

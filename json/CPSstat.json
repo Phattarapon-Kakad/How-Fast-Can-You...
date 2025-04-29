@@ -1,0 +1,47 @@
+{
+    "levels": [
+      {
+        "minCPS": 0,
+        "maxCPS": 3.99,
+        "level": "Very Slow 👶",
+        "description": "Very slow clicks, suitable for beginners or those just starting to train.",
+        "color": "#FF0000"
+      },
+      {
+        "minCPS": 4,
+        "maxCPS": 6.99,
+        "level": "Slow 🥺",
+        "description": "Slower than average clicks, suitable for those still in training.",
+        "color": "#FF7F00"
+      },
+      {
+        "minCPS": 7,
+        "maxCPS": 9.99,
+        "level": "Medium 😊",
+        "description": "Average clicks, suitable for casual players.",
+        "color": "#FFFF00"
+      },
+      {
+        "minCPS": 10,
+        "maxCPS": 12.99,
+        "level": "Fast 😎",
+        "description": "Fast clicks, suitable for experienced players.",
+        "color": "#00FF00"
+      },
+      {
+        "minCPS": 13,
+        "maxCPS": 15.99,
+        "level": "Pro 👹",
+        "description": "Very fast clicks, suitable for highly skilled players.",
+        "color": "#800080"
+      },
+      {
+        "minCPS": 16,
+        "maxCPS": 999,
+        "level": "Professional 🧑‍💻🏆",
+        "description": "Professional-level clicks, suitable for competitive players.",
+        "color": "#FFD700"
+      }
+    ]
+  }
+  
